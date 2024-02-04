@@ -1,0 +1,12 @@
+const pedina_black = '<div class="pedine-black"><img src = "pedine/pedine_nere/pedina_black.svg"></div>';
+const re_black = '<div class="pedine-black"><img src = "pedine/pedine_nere/re_black.svg"></div>';
+const regina_black = '<div class="pedine-black"><img src = "pedine/pedine_nere/regina_black.svg"></div>';
+const cavallo_black = '<div class="pedine-black"><img src = "pedine/pedine_nere/cavallo_black.svg"></div>';
+const alfiere_black = '<div class="pedine-black"><img src = "pedine/pedine_nere/alfiere_black.svg"></div>';
+const torre_black = '<div class="pedine-black"><img src = "pedine/pedine_nere/torre_black.svg"></div>';
+const pedina_white = '<div class="pedine-white"><img src = "pedine/pedine_bianche/pedina_white.svg"></div>';
+const re_white = '<div class="pedine-white"><img src = "pedine/pedine_bianche/re_white.svg"></div>';
+const regina_white = '<div class="pedine-white"><img src = "pedine/pedine_bianche/regina_white.svg"></div>';
+const cavallo_white = '<div class="pedine-white"><img src = "pedine/pedine_bianche/cavallo_white.svg"></div>';
+const alfiere_white = '<div class="pedine-white"><img src = "pedine/pedine_bianche/alfiere_white.svg"></div>';
+const torre_white = '<div class="pedine-white"><img src = "pedine/pedine_bianche/torre_white.svg"></div>';
